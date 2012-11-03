@@ -1,8 +1,11 @@
 ### 概要
 
 高橋さん製作のunity-adbanner-exampleをadstir向けに改変しました。
+Android Pluginです。
 
-### 使い方
+### 使い方(2012/11/03)
+
+adstirさん提供のSDKを Plugins/Android/以下に置く
 
 下記参照。<br>
 第一引数：string    メディアID<br>
