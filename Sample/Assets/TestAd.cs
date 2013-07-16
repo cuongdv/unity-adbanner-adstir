@@ -6,9 +6,5 @@ public class TestAd : MonoBehaviour {
 	public string mediaId = "MEDIA-a29c222e";
 	public int spotId = 1;
 	public float rotationTime = 30.0f;
-	
-	// Use this for initialization
-	void Start () {
-		AdBannerObserver.Initialize(mediaId, spotId, rotationTime);
-	}
+
 }
